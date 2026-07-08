@@ -17,7 +17,7 @@ Biological reasoning systems, scalable analytics, and production-grade statistic
 
 📫 [yang.hu@ranchobiosciences.com](mailto:yang.hu@ranchobiosciences.com) (work)<br>
 📫 [hu.yang@nyu.edu](mailto:hu.yang@nyu.edu) (academic)<br>
-🔗 https://nyuhuyang.github.io/
+🔗 https://nyuhuyang.github.io/<br>
 🔗 https://www.linkedin.com/in/yhu01
 
 
